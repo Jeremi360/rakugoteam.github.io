@@ -16,7 +16,7 @@ addons:
 
   - title: "Rakugo Dialogue System"
     excerpt: "Our Expandable Scriptable Dialogue Engine"
-    url: "/"https://github.com/rakugoteam/Rakugo-Dialogue-System/"
+    url: "https://github.com/rakugoteam/Rakugo-Dialogue-System/"
     btn_label: "Read More & Download"
     btn_class: "btn--primary"
   
