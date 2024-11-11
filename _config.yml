@@ -29,11 +29,11 @@ include:
   - _kits
   - _examples
 
-exclude:
-  - "_addons/addon-example.md"
-  - "_kits/kit-example.md"
-  - "_showcase/showcase-example.md"
-  - "_examples/demo-example.md"
+# exclude:
+#   - "_addons/addon-example.md"
+#   - "_kits/kit-example.md"
+#   - "_showcase/showcase-example.md"
+#   - "_examples/demo-example.md"
 
 # Plugins
 plugins:
@@ -82,7 +82,7 @@ footer:
       url: "https://twitter.com/BiernackiJeremi"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rakugoteam/Rakugo-Dialogue-System"
+      url: "https://github.com/rakugoteam"
 
 defaults:
   ##_pages
